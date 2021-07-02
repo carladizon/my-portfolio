@@ -1029,6 +1029,9 @@ footer .credits a {
     width: 40px !important;
     height: 40px !important;
   }
+   .margin-mobile{
+    margin-top: 200px !important;
+  }
   }
 
 .bg-image {
